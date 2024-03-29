@@ -1,6 +1,6 @@
 # 2D Adventure
 
-This is a basic 2D platformer game. All you have to do is not touch enemies and reach to the door at the upper left of the screen.
+This is a basic 2D platformer game. All you have to do is not touch enemies and reach to the door at the upper right corner of the screen.
 
 # Controls
 
